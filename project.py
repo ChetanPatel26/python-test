@@ -10,3 +10,6 @@ print("New code added v1.0.4")
 diff=a-b
 print(f"Difference of numbers {a} and {b} is {diff}")
 
+print("New code added v1.0.5")
+print"Intentionlly putting invalid syntax here")
+
