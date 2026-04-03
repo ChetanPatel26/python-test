@@ -4,3 +4,5 @@ a=3
 b=4
 sum=a+b
 print(f"Sum of numbers {a} and {b} is {sum}")
+print("New code added v1.0.2")
+
